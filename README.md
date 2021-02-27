@@ -13,7 +13,7 @@ The focus of this project is data cleaning, exploration and visualization of a U
 
 <div align="center">
 <img src="img/tn1.png?raw=true"/>
-
+</div>
 
 ---
 
