@@ -17,6 +17,7 @@ The focus of this project is data cleaning, exploration and visualization of a U
 
 ---
 
+
 ## Red wine quality prediction 
 
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-Choose-your-own/blob/main/CapstoneCYO.pdf) 
