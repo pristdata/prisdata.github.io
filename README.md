@@ -8,3 +8,7 @@ This portfolio contains various Python and R projects showcasing my data analysi
 [nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/DSjobs.ipynb)
 
 The focus of this project is data cleaning, exploration and visualization.
+<img src="img/dsjobs.png?raw=true"/>
+
+
+---
