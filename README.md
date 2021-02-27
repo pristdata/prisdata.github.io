@@ -11,6 +11,7 @@ This portfolio contains various Python and R projects showcasing my data analysi
 
 The focus of this project is data cleaning, exploration and visualization of a U.S. data scientist job market dataset using Python.
 
+<div align="center">
 <img src="img/tn1.png?raw=true"/>
 
 
@@ -18,20 +19,24 @@ The focus of this project is data cleaning, exploration and visualization of a U
 
 ## Red wine quality prediction 
 
-HarvardX capstone project where red wine sensory quality was predicted through machine learning.
-
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-Choose-your-own/blob/main/CapstoneCYO.pdf) 
 
+
+HarvardX capstone project where red wine sensory quality was predicted through machine learning.
+
+<div align="center">
 <img src="img/Wine.png?raw=true"/>
 
 ---
 
 ## Movie recommendation system 
 
-HarvardX capstone project where a machine learning algorithm was trained to predict user movie ratings using the MovieLens data set.
-
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-MovieLens/blob/main/CapstoneMovieLens.pdf) 
 
+
+HarvardX capstone project where a machine learning algorithm was trained to predict user movie ratings using the MovieLens data set.
+
+<div align="center">
 <img src="img/Movielens.png?raw=true"/>
 
 ---
