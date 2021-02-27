@@ -27,6 +27,7 @@ HarvardX capstone project where red wine sensory quality was predicted through m
 <div align="center">
 <img src="img/Wine.png?raw=true"/>
 
+
 ---
 
 ## Movie recommendation system 
