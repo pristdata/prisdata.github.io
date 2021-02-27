@@ -27,7 +27,7 @@ HarvardX capstone project where red wine sensory quality was predicted through m
 
 <div align="center">
 <img src="img/Wine.png?raw=true"/>
-
+</div>
 
 ---
 
@@ -40,5 +40,5 @@ HarvardX capstone project where a machine learning algorithm was trained to pred
 
 <div align="center">
 <img src="img/Movielens.png?raw=true"/>
-
+</div>
 ---
