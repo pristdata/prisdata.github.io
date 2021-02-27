@@ -11,7 +11,7 @@ This portfolio contains various Python and R projects showcasing my data analysi
 
 The focus of this project is data cleaning, exploration and visualization in Python.
 
-<img src="img/Project1.png?raw=true"/>
+<img src="img/tn1.png?raw=true"/>
 
 
 ---
