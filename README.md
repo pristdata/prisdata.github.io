@@ -3,7 +3,7 @@
 This portfolio contains various Python and R projects showcasing my data analysis and machine learning skills. 
 
 
-###  Data scientist job market in the U.S.
+##  Data scientist job market in the U.S.
 
 [Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/DSjobs.ipynb) 
 [nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/DSjobs.ipynb)
