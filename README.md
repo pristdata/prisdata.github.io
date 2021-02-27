@@ -22,7 +22,7 @@ The focus of this project is data cleaning, exploration and visualization of a U
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-Choose-your-own/blob/main/CapstoneCYO.pdf) 
 
 
-HarvardX capstone project where red wine sensory quality was predicted through machine learning.
+HarvardX capstone project where red wine sensory quality was predicted through machine learning using R.
 
 <div align="center">
 <img src="img/Wine.png?raw=true"/>
@@ -34,7 +34,7 @@ HarvardX capstone project where red wine sensory quality was predicted through m
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-MovieLens/blob/main/CapstoneMovieLens.pdf) 
 
 
-HarvardX capstone project where a machine learning algorithm was trained to predict user movie ratings using the MovieLens data set.
+HarvardX capstone project where a machine learning algorithm was trained to predict user movie ratings (MovieLens dataset) using R.
 
 <div align="center">
 <img src="img/Movielens.png?raw=true"/>
