@@ -2,14 +2,25 @@
 
 This portfolio contains various Python and R projects showcasing my data analysis and machine learning skills. 
 
+### Housing prices prediction 
 
-## Exploration of the data scientist job market in the U.S.
+[Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/Housing%20prices.ipynb) 
+[nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/Housing%20prices.ipynb)
+
+In this notebook I implemented various linear regression models (Ridge, Bayesian, Lasso) and Gradient Boosting Regressors to predict housing prices.
+
+<div align="center">
+<img src="img/linear.png?raw=true"/>
+</div>
+
+
+### Exploration of the data scientist job market in the U.S.
 
 [Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/DSjobs.ipynb) 
 [nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/DSjobs.ipynb)
 
 
-The focus of this project is data cleaning, exploration and visualization of a data science jobs datasets using Python.
+The focus of this notebook is data cleaning, exploration and visualization of a Data Science jobs dataset.
 
 <div align="center">
 <img src="img/tn1.png?raw=true"/>
@@ -18,12 +29,12 @@ The focus of this project is data cleaning, exploration and visualization of a d
 ---
 
 
-## Red wine quality prediction 
+### Red wine quality prediction 
 
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-Choose-your-own/blob/main/CapstoneCYO.pdf) 
 
 
-HarvardX capstone project where red wine sensory quality was predicted through machine learning using R.
+HarvardX Capstone Project where red wine sensory quality was predicted through machine learning using R (Decision trees, Random Forest and Naive Bayes).
 
 <div align="center">
 <img src="img/Wine.png?raw=true"/>
@@ -31,12 +42,12 @@ HarvardX capstone project where red wine sensory quality was predicted through m
 
 ---
 
-## Movie recommendation system 
+### Movie recommendation system 
 
 [Github](https://github.com/pristdata/HarvardX-Capstone-Project-MovieLens/blob/main/CapstoneMovieLens.pdf) 
 
 
-HarvardX capstone project where a machine learning algorithm was trained to predict user movie ratings (MovieLens dataset) using R.
+HarvardX Capstone Project where an algorithm was trained to predict user movie ratings (MovieLens dataset) using R.
 
 <div align="center">
 <img src="img/Movielens.png?raw=true"/>
