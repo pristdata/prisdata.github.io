@@ -2,6 +2,19 @@
 
 This portfolio contains various Python and R projects showcasing my data analysis and machine learning skills. 
 
+
+### Cervical cancer prediction
+
+[Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/cervical_cancer.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/cervical_cancer.ipynb)
+
+In this notebook I trained a few classification ML algorithms (Logistic Regression, K-nearest neighbors, Support Vector Machine) and a Neural Network to predict a biopsy result for cervical cancer (binary outcome). 
+
+<div align="center">
+<img src="img/network.gv-1.png?raw=true"/>
+</div>
+
+
 ### Housing prices prediction 
 
 [Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/Housing%20prices.ipynb) 
