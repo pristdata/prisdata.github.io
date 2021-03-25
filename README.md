@@ -2,6 +2,16 @@
 
 This portfolio contains various Python and R projects showcasing my data analysis and machine learning skills. 
 
+### Diabetes diagnosis prediction
+
+[Github]https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/Diabetes.ipynb
+[nbviewer]https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/Diabetes.ipynb
+
+The focus of this project is Exploratory Data Analysis (including K-means clustering and Hierarchical clustering) and training a Support Vector Machine to predict whether a patient has diabetes based on diagnostic measurements.  
+
+<div align="center">
+<img src="img/diabetes.png?raw=true"/>
+</div>
 
 ### Cervical cancer prediction
 
