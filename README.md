@@ -51,7 +51,7 @@ The focus of this project is Exploratory Data Analysis (including data visualiza
 In this project I trained a few classification ML algorithms (Logistic Regression, K-nearest neighbors, Support Vector Machine) and a Neural Network to predict a biopsy result for cervical cancer (binary outcome). Also performed data visualization for the models, including ROC curves.
 
 <div align="center">
-<img src="img/network.gv-1.png?raw=true" width="700" height="500" />
+<img src="img/network.gv-1.png?raw=true" width="800" height="600" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ In this project I trained a few classification ML algorithms (Logistic Regressio
 The focus of this project is data cleaning (null values, median imputation and string processing), and exploratory data analysis of a Data Science jobs dataset.
 
 <div align="center">
-<img src="img/tn1.png?raw=true" width="700" height="400" />
+<img src="img/tn1.png?raw=true" width="900" height="400" />
 </div>
 
 ---
