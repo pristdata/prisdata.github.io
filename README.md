@@ -22,7 +22,7 @@ In this project I implemented various linear regression models (Ridge, Bayesian,
 [Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/online_news.ipynb)
 [nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/online_news.ipynb)
 
-The focus of this project is Exploratory Data Analysis (including K-means clustering and Hierarchical clustering) and training a Support Vector Machine to predict whether a patient has diabetes based on diagnostic measurements.  
+This project consisted of implementing the Decision Tree and Random Forest algorithms to predict online news popularity (by shares) using RMSE as the evaluation metric. To improve the score, Data Normalization and Dimensionality Reduction through Principal Component Analysis (PCA) were applied. 
 
 <div align="center">
 <img src="img/shares.png?raw=true" width="700" height="400" />
