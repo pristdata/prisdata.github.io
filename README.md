@@ -12,7 +12,7 @@ This portfolio contains various Python and R projects showcasing my data analysi
 In this project I implemented various linear regression models (Ridge, Bayesian, Lasso) and Gradient Boosting Regressors to predict housing prices with R-squared as model evaluation metric. Also performed exploratory data analysis, including model feature importance.
 
 <div align="center">
-<img src="img/linear.png?raw=true" width="400" height="400"/>
+<img src="img/linear.png?raw=true" width="500" height="400"/>
 </div>
 
 
