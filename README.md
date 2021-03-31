@@ -2,7 +2,7 @@
 
 This portfolio contains various Python and R projects showcasing my data analysis and machine learning skills. 
 
-
+---
 
 ### Housing prices prediction (regression task)
 
@@ -15,6 +15,7 @@ In this project I implemented various linear regression models (Ridge, Bayesian,
 <img src="img/linear.png?raw=true" width="600" height="400"/>
 </div>
 
+---
 
 ### Online news popularity (regression task)
 
@@ -27,6 +28,7 @@ The focus of this project is Exploratory Data Analysis (including K-means cluste
 <img src="img/shares.png?raw=true" width="600" height="400" />
 </div>
 
+---
 
 ### Diabetes diagnosis prediction (classification task)
 
@@ -39,6 +41,7 @@ The focus of this project is Exploratory Data Analysis (including data visualiza
 <img src="img/diabetes.png?raw=true"/>
 </div>
 
+---
 
 ### Cervical cancer prediction (classification task)
 
@@ -51,7 +54,7 @@ In this project I trained a few classification ML algorithms (Logistic Regressio
 <img src="img/network.gv-1.png?raw=true" width="700" height="500" />
 </div>
 
-
+---
 
 ### Exploration of the data scientist job market in the U.S.
 
@@ -91,4 +94,4 @@ HarvardX Capstone Project where an algorithm was trained to predict user movie r
 <div align="center">
 <img src="img/Movielens.png?raw=true" width="500" height="400" />
 </div>
----
+
