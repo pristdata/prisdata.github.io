@@ -24,7 +24,7 @@ In this project I implemented various linear regression models (Ridge, Bayesian,
 The focus of this project is Exploratory Data Analysis (including K-means clustering and Hierarchical clustering) and training a Support Vector Machine to predict whether a patient has diabetes based on diagnostic measurements.  
 
 <div align="center">
-<img src="img/shares.png?raw=true"/>
+<img src="img/shares.png?raw=true" width="600" height="400" />
 </div>
 
 
@@ -76,7 +76,7 @@ The focus of this project is data cleaning (null values, median imputation and s
 HarvardX Capstone Project where red wine sensory quality was predicted through machine learning using R (Decision trees, Random Forest and Naive Bayes).
 
 <div align="center">
-<img src="img/Wine.png?raw=true"/>
+<img src="img/Wine.png?raw=true" width="500" height="400" />
 </div>
 
 ---
@@ -89,6 +89,6 @@ HarvardX Capstone Project where red wine sensory quality was predicted through m
 HarvardX Capstone Project where an algorithm was trained to predict user movie ratings (MovieLens dataset) using R.
 
 <div align="center">
-<img src="img/Movielens.png?raw=true"/>
+<img src="img/Movielens.png?raw=true" width="500" height="400" />
 </div>
 ---
