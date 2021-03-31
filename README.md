@@ -92,6 +92,6 @@ HarvardX Capstone Project where red wine sensory quality was predicted through m
 HarvardX Capstone Project where an algorithm was trained to predict user movie ratings (MovieLens dataset) using R.
 
 <div align="center">
-<img src="img/Movielens.png?raw=true" width="600" height="400" />
+<img src="img/Movielens.png?raw=true" width="500" height="400" />
 </div>
 
