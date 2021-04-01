@@ -22,10 +22,10 @@ In this project I implemented various linear regression models (Ridge, Bayesian,
 [Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/online_news.ipynb)
 [nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/online_news.ipynb)
 
-The focus of this project is Exploratory Data Analysis (including K-means clustering and Hierarchical clustering) and training a Support Vector Machine to predict whether a patient has diabetes based on diagnostic measurements.  
+This project consisted of implementing the Decision Tree and Random Forest algorithms to predict online news popularity (by shares) using RMSE as the evaluation metric. To improve the score, Data Normalization and Dimensionality Reduction through Principal Component Analysis (PCA) were applied. 
 
 <div align="center">
-<img src="img/shares.png?raw=true" width="600" height="400" />
+<img src="img/shares.png?raw=true" width="700" height="400" />
 </div>
 
 ---
@@ -51,7 +51,7 @@ The focus of this project is Exploratory Data Analysis (including data visualiza
 In this project I trained a few classification ML algorithms (Logistic Regression, K-nearest neighbors, Support Vector Machine) and a Neural Network to predict a biopsy result for cervical cancer (binary outcome). Also performed data visualization for the models, including ROC curves.
 
 <div align="center">
-<img src="img/network.gv-1.png?raw=true" width="700" height="500" />
+<img src="img/network.gv-1.png?raw=true" width="800" height="600" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ In this project I trained a few classification ML algorithms (Logistic Regressio
 The focus of this project is data cleaning (null values, median imputation and string processing), and exploratory data analysis of a Data Science jobs dataset.
 
 <div align="center">
-<img src="img/tn1.png?raw=true" width="700" height="400" />
+<img src="img/tn1.png?raw=true" width="900" height="400" />
 </div>
 
 ---
@@ -79,7 +79,7 @@ The focus of this project is data cleaning (null values, median imputation and s
 HarvardX Capstone Project where red wine sensory quality was predicted through machine learning using R (Decision trees, Random Forest and Naive Bayes).
 
 <div align="center">
-<img src="img/Wine.png?raw=true" width="500" height="400" />
+<img src="img/Wine.png?raw=true" width="600" height="400" />
 </div>
 
 ---
