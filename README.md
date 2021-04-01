@@ -56,7 +56,7 @@ In this project I trained a few classification ML algorithms (Logistic Regressio
 
 ---
 
-### Exploration of the data scientist job market in the U.S.
+### Exploration of the data scientist job market in the U.S. (data exploration and analysis)
 
 [Github](https://github.com/pristdata/pristdata.github.io/blob/main/Notebooks/ds_jobs.ipynb) 
 [nbviewer](https://nbviewer.jupyter.org/github/pristdata/pristdata.github.io/blob/main/Notebooks/ds_jobs.ipynb)
