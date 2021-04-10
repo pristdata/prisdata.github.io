@@ -1,7 +1,19 @@
-time,atm cooking,press cooking,mw cooking
-0,0.3,1.2,3.9
-10,0.3,1.2,3.9
-20,0.3,1.2,4
-30,0.3,1.4,4
-40,0.4,1.5,4.1
-50,0.4,1.5,4.1
+time,method,tbars_value
+0,atm,0.3
+10,atm,0.3
+20,atm,0.3
+30,atm,0.3
+40,atm,0.4
+50,atm,0.4
+0,press,0.3
+10,press,1.2
+20,press,1.2
+30,press,1.4
+40,press,1.5
+50,press,1.5
+0,mw,0.3
+10,mw,3.9
+20,mw,4
+30,mw,4
+40,mw,4.1
+50,mw,4.1
